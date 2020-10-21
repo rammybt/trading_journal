@@ -3,6 +3,8 @@ Documenting my trading journey.
 
 ---
 
+<br/>
+
 * ### [Strategic Asset Allocation - India](./strategic_asset_allocation-india.md)
 
 <br/>
