@@ -158,7 +158,7 @@
         - Leverage ≈1.75X-2.25X (Notional Value).
     - N100 - 15%
     - Tail Protection - 02%
-        - Put with ≈6-12 months to expiry.
+        - Puts with ≈6-12 months to expiry.
         - Allocate in two tranches of 01% each.
         - Gamma scalp to reduce cost.
 <br/>
