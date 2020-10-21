@@ -167,4 +167,4 @@
 
 <br/>
 
-![All Rights Reserved](files/all_rights_reserved.svg)
+![Creative Commons](./files/cc-by-sa.svg)
