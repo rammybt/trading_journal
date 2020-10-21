@@ -1,4 +1,4 @@
-<a name="top"> </a> <img align='left' alt='Logo' src='./files/flag_of_india.svg' width='15%'>
+<a name="top"> </a> <img align='left' alt='Logo' src='./files/flag_of_india.svg' width='14%'>
                       
 # Strategic Asset Allocation - India
 
