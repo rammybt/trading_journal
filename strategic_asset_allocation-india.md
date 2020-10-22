@@ -73,8 +73,9 @@
 - Portfolio Size - 20.
 - Rebalance Frequency - Monthly. Create two overlapping portfolios.
 - Allocation
-    - 1/2 - As per factor weight.
-    - 1/2 - As per hierarchical equal risk contribution.
+    - 1/3 - As per factor weight.
+    - 1/3 - As per equal weight.
+    - 1/3 - As per hierarchical equal risk contribution.
 - Benchmark - Nifty 500 TRI.
 
 <br/>
