@@ -1,4 +1,4 @@
-<a name="top"> </a> <img align='left' alt='Logo' src='./files/world.svg' width='14%'>
+<a name="top"> </a> <img align='left' alt='Logo' src='./files/world.svg' width='20%'>
                       
 # Strategic Asset Allocation - International
 
