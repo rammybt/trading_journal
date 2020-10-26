@@ -9,6 +9,13 @@
 |:-----------------------------------------|:------------:|
 | <a href="#aa"> Adaptive Asset Allocation </a>         |     ≈ 100%    |
 
+* 25% - Based on [Breadth Momentum and the Canary Universe: Defensive Asset Allocation (DAA)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212862)
+* 25% - Based on [A Century of Generalized Momentum; From Flexible Asset Allocations (FAA) to Elastic Asset Allocation (EAA)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2543979)
+* 25% - Based on [Protective Asset Allocation (PAA): A Simple Momentum-Based Alternative for Term Deposits](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2759734)
+* 25% - Based on [Breadth Momentum and Vigilant Asset Allocation (VAA): Winning More by Losing Less](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3002624)
+
+Two overlapping portfolios rebalanced monthly.
+
 <br/>
 <br/>
 
