@@ -68,8 +68,8 @@
 ### <a name="ft">Top 20 Strategy</a> [🔝](#top)
 
 - Investment Universe
-    - Top 750 Stocks by avg. traded value in NSE.
-        - Average of weekly traded value in rupees (₹) for the last 12 months.
+    - Top 750 Stocks by median traded value in NSE.
+        - Median of weekly traded value in rupees (₹) for the last 12 months.
 - Portfolio Size - 20.
 - Rebalance Frequency - Monthly. Create two overlapping portfolios.
 - Allocation
