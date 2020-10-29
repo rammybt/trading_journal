@@ -9,7 +9,7 @@
 |:-----------------------------------------|:------------:|
 | <a href="#fi"> Fixed Income </a>         |     ≈ 25%    |
 | <a href="#sv"> Short Volatility </a>     |     ≈ 15%    |
-| <a href="#ft"> Top 20 Strategy </a>      |     ≈ 10%    |
+| <a href="#ft"> Top 25 Strategy </a>      |     ≈ 10%    |
 | <a href="#tf"> TF and Dual Momentum </a> |     ≈ 10%    |
 | <a href="#ls"> Long / Short Futures </a> |     ≈ 10%    |
 | <a href="#di"> Discretionary </a>        |     ≈ 05%    |
@@ -65,12 +65,12 @@
 
 <br/>
 
-### <a name="ft">Top 20 Strategy</a> [🔝](#top)
+### <a name="ft">Top 25 Strategy</a> [🔝](#top)
 
 - Investment Universe
     - Top 750 Stocks by median traded value in NSE.
         - Median of weekly traded value in rupees (₹) for the last 12 months.
-- Portfolio Size - 20.
+- Portfolio Size - 25.
 - Rebalance Frequency - Monthly. Create two overlapping portfolios.
 - Allocation
     - 1/3 - As per factor weight.
