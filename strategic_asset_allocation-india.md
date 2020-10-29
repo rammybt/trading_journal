@@ -144,7 +144,7 @@
     - 1/3 of remaining at 2R.
     - 1/2 of remaining at stop loss - 1.
     - All remaining at stop loss - 2.
-- Benchmark - Nifty 500.
+- Benchmark - Nifty 500 TRI.
 
 <br/>
 
