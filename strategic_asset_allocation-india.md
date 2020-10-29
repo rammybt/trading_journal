@@ -9,11 +9,11 @@
 |:-----------------------------------------|:------------:|
 | <a href="#fi"> Fixed Income </a>         |     ≈ 25%    |
 | <a href="#sv"> Short Volatility </a>     |     ≈ 15%    |
-| <a href="#ft"> Top 25 Strategy </a>      |     ≈ 10%    |
-| <a href="#tf"> TF and Dual Momentum </a> |     ≈ 10%    |
-| <a href="#ls"> Long / Short Futures </a> |     ≈ 10%    |
-| <a href="#di"> Discretionary </a>        |     ≈ 05%    |
-| <a href="#ot"> Others </a>               |     ≈ 25%    |
+| <a href="#ft"> Top 25 Strategy </a>      |     ≈ 15%    |
+| <a href="#tf"> TF and Dual Momentum </a> |     ≈ 15%    |
+| <a href="#ls"> Long / Short Futures </a> |     ≈ 15%    |
+| <a href="#di"> Discretionary </a>        |     ≈ 10%    |
+| <a href="#ot"> Others </a>               |     ≈ 05%    |
 
 - Rebalance if 
     - Any allocation changes by more than ±75%. __OR__
@@ -155,10 +155,8 @@
 ### <a name="ot">Others</a> [🔝](#top)
 
 - Allocate to -
-    - MCX iCOMDEX Bullion - 08%.
-        - Leverage ≈1.75X-2.25X (Notional Value).
-    - N100 - 15%
-    - Tail Protection - 02%
+    - Goldbees - 03%.
+    - Tail Protection - 02%.
         - Puts with ≈ 6-15 months to expiry.
         - Allocate in two tranches of 01% each.
         - Gamma scalp to reduce cost.
