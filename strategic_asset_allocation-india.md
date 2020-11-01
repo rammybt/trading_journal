@@ -12,8 +12,8 @@
 | <a href="#ft"> Top 25 Strategy </a>      |     ≈ 15%    |
 | <a href="#tf"> TF and Dual Momentum </a> |     ≈ 15%    |
 | <a href="#ls"> Long / Short Futures </a> |     ≈ 15%    |
-| <a href="#di"> Discretionary </a>        |     ≈ 10%    |
-| <a href="#ot"> Others </a>               |     ≈ 05%    |
+| <a href="#di"> Discretionary </a>        |     ≈ 05%    |
+| <a href="#ot"> Others </a>               |     ≈ 10%    |
 
 - Rebalance if 
     - Any allocation changes by more than ±75%. __OR__
@@ -154,11 +154,9 @@
 ### <a name="ot">Others</a> [🔝](#top)
 
 - Allocate to -
-    - Goldbees - 03%.
-    - Tail Protection - 02%.
-        - Puts with ≈ 6-15 months to expiry.
-        - Allocate in two tranches of 01% each.
-        - Gamma scalp to reduce cost.
+    - MCXBULLDEX - 5.0% (Leverage 1.25X-1.75X)
+    - MCXMETLDEX - 5.0% (Leverage 1.25X-1.75X)
+    
 <br/>
 
 ---
