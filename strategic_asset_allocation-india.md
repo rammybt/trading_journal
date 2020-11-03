@@ -11,7 +11,7 @@
 | <a href="#sv"> Short Volatility </a>     |     ≈ 15%    |
 | <a href="#ft"> Top 25 Strategy </a>      |     ≈ 15%    |
 | <a href="#tf"> TF and Dual Momentum </a> |     ≈ 15%    |
-| <a href="#ls"> Long / Short Futures </a> |     ≈ 15%    |
+| <a href="#sh"> Short Book (Futures) </a> |     ≈ 15%    |
 | <a href="#di"> Discretionary </a>        |     ≈ 05%    |
 | <a href="#ot"> Others </a>               |     ≈ 10%    |
 
@@ -76,7 +76,7 @@
     - 1/3 - As per factor weight.
     - 1/3 - As per equal weight.
     - 1/3 - As per hierarchical equal risk contribution.
-- Benchmark - Nifty 500 TRI.
+- Benchmark - Nifty 50 TRI.
 
 <br/>
 
@@ -93,10 +93,10 @@
     - N100.
     - Bharat Bond ETF (Long Term)
 - Portfolio Size - 0 - 5.
-- Rebalance Frequency - Monthly. Create two overlapping portfolios.
+- Rebalance Frequency - Weekly.
 - Allocation - 0% to 100% (No Leverage or Shorting).
-    - If no opportunity allocate to liquid fund (MF).
-- Benchmark - Nifty 500 TRI.
+    - If no opportunity allocate to liquid bees.
+- Benchmark - Nifty 50 TRI.
 
 <br/>
 
@@ -104,16 +104,20 @@
 
 <br/>
 
-### <a name="ls">Long / Short Futures</a> [🔝](#top)
+### <a name="sh">Short Book (Futures)</a> [🔝](#top)
 
 - Index Futures
     - Investment Universe 
-        - Nifty Futures.
-        - Nifty Bank Futures.
+        - Stocks that have F&O on NSE.
     - Strategy
-        - Either long or short.
+        - Quantitative screen.
+        - Final decision based on charts.
     - Leverage
-        - Around 1.75X-2.25X.
+        - Around 1.25X-1.75X.
+    - Stop-loss
+        - Discretion of the trader.
+        - Specify two stop losses.
+        - Can only be revised downwards.
     - Rollover
         - Expiry week monday.
 
@@ -144,7 +148,7 @@
     - 1/3 of remaining at 2R.
     - 1/2 of remaining at stop loss - 1.
     - All remaining at stop loss - 2.
-
+- Benchmark - Nifty 50 TRI.
 <br/>
 
 ---
