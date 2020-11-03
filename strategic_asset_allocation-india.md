@@ -17,7 +17,7 @@
 
 - Rebalance if 
     - Any allocation changes by more than ±75%. __OR__
-    - Between 3rd week of March and 2nd Week of April. (Tax Loss Harvesting)
+    - Between 3rd week of March and 2nd Week of April (Tax Loss Harvesting).
 - Benchmark - Nifty Hybrid 50:50.
 
 <br/>
