@@ -6,14 +6,14 @@
 <br/>
 
 | **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                           |**Allocation**|
-|:-----------------------------------------|:------------:|
-| <a href="#fi"> Fixed Income </a>         |     ≈ 25%    |
-| <a href="#sv"> Short Volatility </a>     |     ≈ 15%    |
-| <a href="#ft"> Top 25 Strategy </a>      |     ≈ 15%    |
-| <a href="#tf"> TF and Dual Momentum </a> |     ≈ 15%    |
-| <a href="#sh"> Short Book (Futures) </a> |     ≈ 15%    |
-| <a href="#di"> Discretionary </a>        |     ≈ 05%    |
-| <a href="#ot"> Others </a>               |     ≈ 10%    |
+|:-----------------------------------------|:-----------:|
+| <a href="#fi"> Fixed Income </a>         |     ≈25%    |
+| <a href="#sv"> Short Volatility </a>     |     ≈15%    |
+| <a href="#ft"> Top 25 Strategy </a>      |     ≈15%    |
+| <a href="#tf"> TF and Dual Momentum </a> |     ≈15%    |
+| <a href="#sh"> Short Book (Futures) </a> |     ≈15%    |
+| <a href="#di"> Discretionary </a>        |     ≈05%    |
+| <a href="#ot"> Others </a>               |     ≈10%    |
 
 - Rebalance if 
     - Any allocation changes by more than ±75%. __OR__
@@ -112,7 +112,7 @@
         - Quantitative screen.
         - Final decision based on charts.
     - Leverage
-        - Around 1.25X-1.75X.
+        - Around ≈1.25X-1.75X.
     - Stop-loss
         - Discretion of the trader.
         - Specify two stop losses.
@@ -157,8 +157,8 @@
 ### <a name="ot">Others</a> [🔝](#top)
 
 - Allocate to -
-    - MCXBULLDEX - 5.0% (Leverage 1.25X-1.75X)
-    - MCXMETLDEX - 5.0% (Leverage 1.25X-1.75X)
+    - MCXBULLDEX - 5.0% (Leverage ≈1.25X-1.75X)
+    - MCXMETLDEX - 5.0% (Leverage ≈1.25X-1.75X)
     
 <br/>
 
