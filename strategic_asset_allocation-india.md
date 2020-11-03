@@ -137,7 +137,7 @@
 - Stop-loss
     - Discretion of the trader.
     - Specify two stop losses.
-    - Can only be revised upwards.
+    - Can only be revised upwards for longs and downwards for shorts.
 - Allocation for stocks (Maximum) - 
     - Minimum of -
         1. 4.0% of Capital.
