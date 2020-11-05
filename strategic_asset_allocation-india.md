@@ -95,7 +95,7 @@
 - Portfolio Size - 0 - 5.
 - Rebalance Frequency - Weekly.
 - Allocation - 0% to 100% (No Leverage or Shorting).
-    - If no opportunity allocate to liquid bees.
+    - If no opportunity allocate to liquidbees.
 - Benchmark - Nifty 50 TRI.
 
 <br/>
