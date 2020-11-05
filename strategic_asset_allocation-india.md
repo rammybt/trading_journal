@@ -17,7 +17,7 @@
 
 - Rebalance if 
     - Any allocation changes by more than ±75%. __OR__
-    - Between 3rd week of March and 2nd Week of April (Tax Loss Harvesting).
+    - Between 3<sup>rd</sup> week of March and 2<sup>nd</sup> Week of April (Tax Loss Harvesting).
 - Benchmark - Nifty Hybrid 50:50.
 
 <br/>
@@ -72,7 +72,7 @@
         - Median of weekly traded value in rupees (₹) for the last 15 months.
 - Portfolio Size - 25.
 - Rebalance Frequency - Monthly.
-    - Create two portfolios rebalanced on 01st and 3rd Wednesday of every month. 
+    - Create two portfolios rebalanced on 01<sup>st</sup> and 3<sup>rd</sup> Wednesday of every month. 
 - Allocation
     - 1/2 - As per factor weight.
     - 1/2 - As per equal weight.
