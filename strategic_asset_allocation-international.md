@@ -19,10 +19,10 @@
 
 - Allocation 
     - Based on average of three overlapping portfolios rebalanced monthly on 01st, 11th and 21st repectively.
+    
+---    
 
 <br/>
 <br/>
-
----
 
 ![Creative Commons](./files/cc-by-sa.svg)
