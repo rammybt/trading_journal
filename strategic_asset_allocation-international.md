@@ -18,7 +18,7 @@
 * 20% - Based on [Aspect Partners’ Risk Managed Momentum](https://allocatesmartly.com/aspect-partners-risk-managed-momentum/)
 
 - Allocation 
-    - Based on average of three overlapping portfolios rebalanced monthly on 07th, 14th and 21st repectively.
+    - Based on average of three overlapping portfolios rebalanced monthly on 01st, 11th and 21st repectively.
 
 <br/>
 <br/>
