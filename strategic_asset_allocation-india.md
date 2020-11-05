@@ -71,7 +71,8 @@
     - Top 750 Stocks by median traded value in NSE.
         - Median of weekly traded value in rupees (₹) for the last 15 months.
 - Portfolio Size - 25.
-- Rebalance Frequency - Monthly. Create two overlapping portfolios.
+- Rebalance Frequency - Monthly.
+    - Create two portfolios rebalanced on 01st and 3rd Wednesday of every month. 
 - Allocation
     - 1/2 - As per factor weight.
     - 1/2 - As per equal weight.
