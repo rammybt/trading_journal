@@ -19,6 +19,9 @@
 
 - Allocation 
     - Based on average of three overlapping portfolios rebalanced monthly on 01<sup>st</sup>, 11<sup>th</sup> and 21<sup>st</sup> repectively.
+    
+- Benchmark 
+    - Vanguard Balanced Index Fund Admiral Shares (VBIAX)
 
 <br/>
 <br/>
