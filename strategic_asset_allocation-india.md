@@ -82,7 +82,7 @@
 - Allocation
     - 1/2 - As per factor weight.
     - 1/2 - As per equal weight.
-- Benchmark - Nifty 50 TRI.
+- Benchmark - Nippon India ETF Nifty BeES.
 
 <br/>
 
@@ -102,7 +102,7 @@
 - Rebalance Frequency - Weekly.
 - Allocation - 0% to 100% (No Leverage or Shorting).
     - If no opportunity allocate to liquidbees.
-- Benchmark - Nifty 50 TRI.
+- Benchmark - Nippon India ETF Nifty BeES.
 
 <br/>
 
@@ -154,7 +154,7 @@
     - 1/3 of remaining at 2R.
     - 1/2 of remaining at stop loss - 1.
     - All remaining at stop loss - 2.
-- Benchmark - Nifty 50 TRI.
+- Benchmark - Nippon India ETF Nifty BeES.
 <br/>
 
 ---
