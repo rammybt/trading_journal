@@ -17,10 +17,12 @@
 * 20% - Based on [Breadth Momentum and Vigilant Asset Allocation (VAA): Winning More by Losing Less](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3002624)
 * 20% - Based on [Aspect Partners’ Risk Managed Momentum](https://allocatesmartly.com/aspect-partners-risk-managed-momentum/)
 
+<br/>
 
-- Allocation 
+- Allocation
     - Based on average of three overlapping portfolios rebalanced monthly on 01<sup>st</sup>, 11<sup>th</sup> and 21<sup>st</sup> repectively.
-    
+
+<br/>
 
 - Benchmark 
     - Vanguard Balanced Index Fund Admiral Shares (VBIAX)
