@@ -45,7 +45,7 @@
     - 50% - Nifty Options.
     - 50% - Bank Nifty Options.
 - Strategy - Short Strangle.
-    - -1X ≈0.10 Delta Call Option.
+    - -2X ≈0.10 Delta Call Option.
     - -1X ≈0.10 Delta Put Option.
     - 45 - 35 DTE.
     - See chart to confirm strike price.
