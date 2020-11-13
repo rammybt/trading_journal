@@ -18,13 +18,7 @@
 - Rebalance if 
     - Any allocation changes by more than ±75%. __OR__
     - Between 3<sup>rd</sup> week of March and 2<sup>nd</sup> Week of April (Tax Loss Harvesting).
-- Benchmark Portfolio (Rebalanced Monthly)
-    - 20% - Nippon India ETF Nifty BeES.
-    - 20% - Nippon India ETF Junior BeES.
-    - 30% - Nippon India ETF Long Term Gilt.
-    - 20% - Nippon India ETF Gold BeES.
-    - 10% - Motilal Oswal Nasdaq 100 ETF.
-
+- Benchmark - ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - Growth
 
 <br/>
 
