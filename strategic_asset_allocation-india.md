@@ -42,10 +42,9 @@
 ### <a name="sv">Short Volatility</a> [🔝](#top)
 
 - Instrument - 
-    - 50% - Nifty Options.
-    - 50% - Bank Nifty Options.
+    - Nifty Index Options.
 - Strategy - Short Strangle.
-    - -2X ≈0.10 Delta Call Option.
+    - -1X ≈0.10 Delta Call Option.
     - -1X ≈0.10 Delta Put Option.
     - 45 - 35 DTE.
     - See chart to confirm strike price.
