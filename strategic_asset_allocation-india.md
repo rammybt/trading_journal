@@ -156,8 +156,8 @@
 ### <a name="ot">Others</a> [🔝](#top)
 
 - Commodities Trend Following -
-    - MCXBULLDEX - 5.0% (Leverage ≈1.50X-2.00X)
-    - MCXMETLDEX - 5.0% (Leverage ≈1.50X-2.00X)
+    - MCXBULLDEX - 5.0% (Leverage ≈1.25X-1.75X)
+    - MCXMETLDEX - 5.0% (Leverage ≈1.25X-1.75X)
     
 <br/>
 
