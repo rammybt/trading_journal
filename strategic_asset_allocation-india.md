@@ -44,7 +44,7 @@
 - Instrument - 
     - Nifty Index Options.
 - Strategy - Iron Condor.
-    - Keep PoP ≧85%.
+    - Keep PoP ≳85%.
     - 45 - 35 DTE.
     - See chart to confirm strike price.
 - Position Sizing
