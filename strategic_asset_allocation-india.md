@@ -72,7 +72,7 @@
         - Median of weekly traded value in rupees (₹) for the last 15 months.
 - Portfolio Size - 25.
 - Rebalance Frequency - Monthly.
-    - Create two portfolios rebalanced on 07<sup>th</sup> and 21<sup>st</sup> of every month repectively. 
+    - Create two portfolios rebalanced on 02<sup>nd</sup> and 04<sup>th</sup> Monday of every month repectively. 
 - Allocation
     - 1/2 - As per factor weight.
     - 1/2 - As per equal weight.
