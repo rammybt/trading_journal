@@ -7,8 +7,8 @@
 
 | **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                           |**Allocation**|
 |:-----------------------------------------|:-----------:|
-| <a href="#fi"> Fixed Income </a>         |     ≈25%    |
-| <a href="#sv"> Short Volatility </a>     |     ≈15%    |
+| <a href="#fi"> Fixed Income </a>         |     ≈20%    |
+| <a href="#sv"> Short Volatility </a>     |     ≈20%    |
 | <a href="#ft"> Top 25 Strategy </a>      |     ≈15%    |
 | <a href="#tf"> TF and Dual Momentum </a> |     ≈15%    |
 | <a href="#sh"> Short Book (Futures) </a> |     ≈10%    |
@@ -43,9 +43,8 @@
 
 - Instrument - 
     - Nifty Index Options.
-- Strategy - Short Strangle.
-    - -1X ≈0.10 Delta Call Option.
-    - -1X ≈0.10 Delta Put Option.
+- Strategy - Iron Condor.
+    - Keep PoP above 85%.
     - 45 - 35 DTE.
     - See chart to confirm strike price.
 - Position Sizing
@@ -54,9 +53,10 @@
     - 50% - At 75% of the premium received.
     - 50% - Discretion of the trader.
 - Stop Loss
-    - Discretion of the trader. Hard SL at 3.5X the premium received.
+    - Discretion of the trader. Hard SL at ≈6.0X the premium received.
 - Adjustments
-    - First adjustment generally at 1σ level.
+    - First adjustment generally when loss is ≈3.0X the premium received.
+    - Second adjustment, if any, is the discretion of the trader.
     - Maximum 2.
 
 <br/>
