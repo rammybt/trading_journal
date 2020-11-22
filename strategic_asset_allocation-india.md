@@ -111,7 +111,7 @@
         - Quantitative screen.
         - Final decision based on charts.
     - Leverage
-        - Around ≈1.75X-2.25X.
+        - Around ≈1.25X-1.75X.
     - Stop-loss
         - Discretion of the trader.
         - Specify two stop losses.
