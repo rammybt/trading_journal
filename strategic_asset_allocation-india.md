@@ -7,13 +7,12 @@
 
 | **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                           |**Allocation**|
 |:-----------------------------------------|:-----------:|
-| <a href="#fi"> Fixed Income </a>         |     ≈25%    |
-| <a href="#sv"> Short Volatility </a>     |     ≈15%    |
+| <a href="#fi"> Fixed Income </a>         |     ≈30%    |
+| <a href="#sv"> Short Volatility </a>     |     ≈20%    |
 | <a href="#ft"> Top 25 Strategy </a>      |     ≈15%    |
 | <a href="#tf"> TF and Dual Momentum </a> |     ≈15%    |
 | <a href="#sh"> Short Book (Futures) </a> |     ≈10%    |
 | <a href="#di"> Discretionary </a>        |     ≈10%    |
-| <a href="#ot"> Others </a>               |     ≈10%    |
 
 - Rebalance if 
     - Any allocation changes by more than ±75%. __OR__
@@ -146,18 +145,6 @@
     - 1/3 of remaining at 2R.
     - 1/2 of remaining at stop loss - 1.
     - All remaining at stop loss - 2.
-<br/>
-
----
-
-<br/>
-
-### <a name="ot">Others</a> [🔝](#top)
-
-- REITs
-    - 5.0% - Mindspace Business Parks REIT.
-    - 5.0% - Embassy Office Parks REIT.
-    
 <br/>
 
 ---
