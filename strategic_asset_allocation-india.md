@@ -7,8 +7,8 @@
 
 | **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                           |**Allocation**|
 |:-----------------------------------------|:-----------:|
-| <a href="#fi"> Fixed Income </a>         |     ≈20%    |
-| <a href="#sv"> Short Volatility </a>     |     ≈20%    |
+| <a href="#fi"> Fixed Income </a>         |     ≈25%    |
+| <a href="#sv"> Short Volatility </a>     |     ≈15%    |
 | <a href="#ft"> Top 25 Strategy </a>      |     ≈15%    |
 | <a href="#tf"> TF and Dual Momentum </a> |     ≈15%    |
 | <a href="#sh"> Short Book (Futures) </a> |     ≈10%    |
