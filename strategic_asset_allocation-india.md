@@ -12,8 +12,8 @@
 | <a href="#ft"> Top 25 Strategy </a>      |     ≈15%    |
 | <a href="#tf"> TF and Dual Momentum </a> |     ≈15%    |
 | <a href="#sh"> Short Book (Futures) </a> |     ≈10%    |
-| <a href="#di"> Discretionary </a>        |     ≈05%    |
-| <a href="#ot"> Others </a>               |     ≈15%    |
+| <a href="#di"> Discretionary </a>        |     ≈10%    |
+| <a href="#ot"> Others </a>               |     ≈10%    |
 
 - Rebalance if 
     - Any allocation changes by more than ±75%. __OR__
@@ -154,12 +154,9 @@
 
 ### <a name="ot">Others</a> [🔝](#top)
 
-- Commodities Trend Following (Leverage ≈1.25X-1.75X)
-    - 5.0% - MCXBULLDEX.
-    - 5.0% - MCXMETLDEX.
 - REIT
-    - 2.5% - Mindspace Business Parks REIT.
-    - 2.5% - Embassy Office Parks REIT.
+    - 5.0% - Mindspace Business Parks REIT.
+    - 5.0% - Embassy Office Parks REIT.
     
 <br/>
 
