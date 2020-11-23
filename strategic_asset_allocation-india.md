@@ -154,7 +154,7 @@
 
 ### <a name="ot">Others</a> [🔝](#top)
 
-- REIT
+- REITs
     - 5.0% - Mindspace Business Parks REIT.
     - 5.0% - Embassy Office Parks REIT.
     
