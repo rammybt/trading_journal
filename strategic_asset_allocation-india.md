@@ -45,7 +45,7 @@
     - Nifty Index Options.
 - Strategy - Iron Condor.
     - Keep PoP ≳85%.
-    - 45 - 35 DTE.
+    - 50 - 30 DTE.
     - See chart to confirm strike price.
 - Position Sizing
     - Based on ≈1.25X-1.75X the required margin.
