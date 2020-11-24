@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-| **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                           |**Allocation**|
+| **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                          |**Allocation**|
 |:-----------------------------------------|:-----------:|
 | <a href="#fi"> Fixed Income </a>         |     ≈30%    |
 | <a href="#sv"> Short Volatility </a>     |     ≈20%    |
