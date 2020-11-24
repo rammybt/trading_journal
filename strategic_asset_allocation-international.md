@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-| **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                           |**Allocation**|
+| **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                           |**Allocation**|
 |:------------------------------------------------------|:------------:|
 | <a href="#aa"> Adaptive Asset Allocation </a>         |     ≈100%    |
 
