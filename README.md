@@ -15,6 +15,40 @@ Documenting my trading journey.
 <br/>
 <br/>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 ---
 
 <b id="xirr">[1](#a1) — </b> Includes all outflows related to trading like software, rent, PC, tax etc. XIRR is from inception till the specified month end.
