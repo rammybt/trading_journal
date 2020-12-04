@@ -17,7 +17,7 @@ Documenting my trading journey.
 
 ---
 
-<b id="xirr">[1](#a1) — </b> Includes all outflows related to trading like software, rent, PC, tax etc. XIRR is from inception till the specified month end.
+<b id="xirr">[1](#a1) — </b> XIRR is from inception till the specified month end. It includes all outflows related to trading like software, rent, PC, tax etc.
 
 <br/>
 
