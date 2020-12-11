@@ -29,8 +29,8 @@
 ### <a name="fi">Fixed Income</a> [🔝](#top)
 
 - Allocate to -
-    - 50% - Bharat Bond ETF (Long Term).
-    - 50% - Bharat Bond ETF (Short Term).
+    - Bharat Bond ETF (Long Term).
+        - Start with 10yr maturity and shift to new ≈10yr maturity after ≈4 years.
 
 <br/>
 
@@ -90,6 +90,7 @@
     - Gold Bees.
     - N100.
     - Bharat Bond ETF (Long Term)
+        - Start with 10yr maturity and shift to new ≈10yr maturity after ≈4 years.
 - Portfolio Size - 0 - 5.
 - Rebalance Frequency - Weekly.
 - Allocation - 0% to 100% (No Leverage or Shorting).
