@@ -150,9 +150,4 @@
 
 ---
 
-<br/>
-<br/>
-<br/>
-<br/>
-
 ![Creative Commons](./files/cc-by-sa.svg)
