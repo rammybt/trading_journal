@@ -29,4 +29,6 @@
 <br/>
 <br/>
 
+---
+
 <p align="center"><img src="./files/cc-by-sa.svg"/)</p>
