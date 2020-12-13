@@ -92,8 +92,11 @@
     - Bharat Bond ETF (Long Term)
         - Start with 10yr maturity and shift to new ≈10yr maturity after ≈4 years.
 - Portfolio Size - 0 - 5.
-- Rebalance Frequency - Weekly.
-- Allocation - 0% to 100% (No Leverage or Shorting).
+- Rebalance Frequency
+    - Bi-Weekly.
+    - On 01<sup>st</sup> and 03<sup>rd</sup> Monday of every month.
+- Allocation
+    - 0% to 100% (No Leverage or Shorting).
     - If no opportunity allocate to liquidbees.
 
 <br/>
