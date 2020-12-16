@@ -1,4 +1,4 @@
-<img align='left' alt='Journal Logo' src='./files/journal_logo.svg' width='20%'>
+<img align='left' alt='Journal Logo' src='./files/journal_logo.svg' width='17%'>
 
 # Trading Journal
 Documenting my trading journey.
