@@ -42,8 +42,8 @@
 
 - Instrument - 
     - Nifty Index Options.
-- Strategy - Iron Condor.
-    - Keep PoP ≳85%.
+- Strategy - Short Strangle.
+    - Keep PoP ≳90%.
     - 50 - 30 DTE.
     - See chart to confirm strike price.
 - Position Sizing
@@ -55,7 +55,7 @@
     - Discretion of the trader. Hard SL at ≈6.0X the premium received.
 - Adjustments
     - First adjustment generally when loss is ≈3.0X the premium received.
-    - Second adjustment, if any, is the discretion of the trader.
+    - Second adjustment, if any, is at the discretion of the trader.
     - Maximum 2.
 
 <br/>
