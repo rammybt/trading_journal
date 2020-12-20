@@ -68,7 +68,7 @@
 
 - Investment Universe
     - Top 750 Stocks by median traded value in NSE.
-        - Median of weekly traded value in rupees (₹) for the last 15 months.
+    - Median of weekly traded value in rupees (₹) for the last 15 months.
 - Portfolio Size - 25.
 - Rebalance Frequency - Monthly.
     - Create two portfolios rebalanced on 02<sup>nd</sup> and 04<sup>th</sup> Monday of every month repectively. 
