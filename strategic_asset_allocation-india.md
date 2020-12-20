@@ -7,11 +7,10 @@
 
 | **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                          |**Allocation**|
 |:-----------------------------------------|:-----------:|
-| <a href="#fi"> Fixed Income </a>         |     ≈30%    |
-| <a href="#sv"> Short Volatility </a>     |     ≈20%    |
-| <a href="#ft"> Top25 Strategy </a>       |     ≈15%    |
+| <a href="#fi"> Fixed Income </a>         |     ≈40%    |
+| <a href="#ft"> Top25 Strategy </a>       |     ≈20%    |
 | <a href="#tf"> TF and Dual Momentum </a> |     ≈15%    |
-| <a href="#sh"> Short Book (Futures) </a> |     ≈10%    |
+| <a href="#sh"> Short Book (Futures) </a> |     ≈15%    |
 | <a href="#di"> Discretionary </a>        |     ≈10%    |
 
 - Rebalance if 
@@ -31,32 +30,6 @@
 - Allocate to -
     - Bharat Bond ETF (Long Term).
     - Start with 10yr maturity and shift to new ≈10yr maturity after ≈4 years.
-
-<br/>
-
----
-
-<br/>
-
-### <a name="sv">Short Volatility</a> [🔝](#top)
-
-- Instrument - 
-    - Nifty Index Options.
-- Strategy - Short Strangle.
-    - Keep PoP ≳90%.
-    - 50 - 30 DTE.
-    - See chart to confirm strike price.
-- Position Sizing
-    - Based on ≈1.25X-1.75X the required margin.
-- Profit Taking
-    - 50% - At 75% of the premium received.
-    - 50% - Discretion of the trader.
-- Stop Loss
-    - Discretion of the trader. Hard SL at ≈6.0X the premium received.
-- Adjustments
-    - First adjustment generally when loss is ≈3.0X the premium received.
-    - Second adjustment, if any, is at the discretion of the trader.
-    - Maximum 2.
 
 <br/>
 
