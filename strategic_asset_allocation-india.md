@@ -30,7 +30,7 @@
 
 - Allocate to -
     - Bharat Bond ETF (Long Term).
-        - Start with 10yr maturity and shift to new ≈10yr maturity after ≈4 years.
+    - Start with 10yr maturity and shift to new ≈10yr maturity after ≈4 years.
 
 <br/>
 
