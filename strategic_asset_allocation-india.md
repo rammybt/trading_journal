@@ -86,12 +86,13 @@
     - Strategy
         - Quantitative screen.
         - Final decision based on charts.
+            - 50% from Decile 09.
+            - 50% from Decile 10.
     - Leverage
         - Around ≈1.25X-1.75X.
     - Stop-loss
         - Discretion of the trader.
-        - Specify two stop losses.
-        - Can only be revised downwards.
+        - Minimum 10%.
     - Rollover
         - Expiry week monday.
 
