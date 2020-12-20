@@ -9,7 +9,7 @@
 |:-----------------------------------------|:-----------:|
 | <a href="#fi"> Fixed Income </a>         |     ≈30%    |
 | <a href="#sv"> Short Volatility </a>     |     ≈20%    |
-| <a href="#ft"> Top 25 Strategy </a>      |     ≈15%    |
+| <a href="#ft"> Top25 Strategy </a>       |     ≈15%    |
 | <a href="#tf"> TF and Dual Momentum </a> |     ≈15%    |
 | <a href="#sh"> Short Book (Futures) </a> |     ≈10%    |
 | <a href="#di"> Discretionary </a>        |     ≈10%    |
@@ -64,7 +64,7 @@
 
 <br/>
 
-### <a name="ft">Top 25 Strategy</a> [🔝](#top)
+### <a name="ft">Top25 Strategy</a> [🔝](#top)
 
 - Investment Universe
     - Top 750 Stocks by median traded value in NSE.
