@@ -81,21 +81,20 @@
 
 ### <a name="ls">Long/Short Book (Futures)</a> [🔝](#top)
 
-- Index Futures
-    - Investment Universe 
-        - Stocks that have F&O on NSE
-    - Strategy
-        - Quantitative screen and charts.
-    - Allocation
-        - 05% - Long Book.
-        - 15% - Short Book.
-    - Leverage
-        - Around ≈1.25X-1.75X.
-    - Stop-loss
-        - Discretion of the trader.
-        - Minimum 07%.
-    - Rollover
-        - Expiry week monday.
+- Investment Universe 
+    - Stocks Futures.
+- Strategy
+    - Quantitative screen and charts.
+- Allocation
+    - 05% - Long Book.
+    - 15% - Short Book.
+- Leverage
+    - Around ≈1.25X-1.75X.
+- Stop-loss
+    - Discretion of the trader.
+    - Minimum 07%.
+- Rollover
+    - Expiry week monday.
 
 <br/>
 
