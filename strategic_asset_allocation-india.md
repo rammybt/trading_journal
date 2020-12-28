@@ -6,13 +6,12 @@
 <br/>
 
 | **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                          |**Allocation**|
-|:-----------------------------------------|:-----------:|
-| <a href="#fi"> Fixed Income </a>         |     ≈30%    |
-| <a href="#ft"> Top25 Strategy </a>       |     ≈20%    |
-| <a href="#tf"> TF and Dual Momentum </a> |     ≈20%    |
-| <a href="#sh"> Short Book (Futures) </a> |     ≈15%    |
-| <a href="#di"> Discretionary </a>        |     ≈10%    |
-| <a href="#ot"> Others </a>               |     ≈05%    |
+|:----------------------------------------------|:-----------:|
+| <a href="#fi"> Fixed Income </a>              |     ≈30%    |
+| <a href="#ft"> Top25 Strategy </a>            |     ≈20%    |
+| <a href="#tf"> TF and Dual Momentum </a>      |     ≈20%    |
+| <a href="#ls"> Long/Short Book (Futures) </a> |     ≈20%    |
+| <a href="#di"> Discretionary </a>             |     ≈10%    |
 
 
 - Rebalance if 
@@ -80,21 +79,21 @@
 
 <br/>
 
-### <a name="sh">Short Book (Futures)</a> [🔝](#top)
+### <a name="ls">Long/Short Book (Futures)</a> [🔝](#top)
 
 - Index Futures
     - Investment Universe 
-        - Stocks that have F&O on NSE.
+        - Stocks that have F&O on NSE
     - Strategy
-        - Quantitative screen.
-        - Final decision based on charts.
-            - 50% from Decile 09.
-            - 50% from Decile 10.
+        - Quantitative screen and charts.
+    - Allocation
+        - 05% - Long Book.
+        - 15% - Short Book.
     - Leverage
         - Around ≈1.25X-1.75X.
     - Stop-loss
         - Discretion of the trader.
-        - Minimum 10%.
+        - Minimum 07%.
     - Rollover
         - Expiry week monday.
 
@@ -125,18 +124,6 @@
     - 1/3 of remaining at 2R.
     - 1/2 of remaining at stop loss - 1.
     - All remaining at stop loss - 2.
-<br/>
-
----
-
-<br/>
-
-### <a name="ot">Others</a> [🔝](#top)
-
-- REITs
-    - Embassy Office Parks REIT.
-    - Mindspace Business Parks REIT.
-
 <br/>
 
 ---
