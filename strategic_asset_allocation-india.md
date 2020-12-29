@@ -29,8 +29,10 @@
 ### <a name="fi">Fixed Income</a> [🔝](#top)
 
 - Allocate to -
-    - Bharat Bond ETF (Long Term).
-    - Start with 10yr maturity and shift to new ≈10yr maturity after ≈4 years.
+    - 50% - Bharat Bond ETF (Long Term ≈10yr).
+    - 50% - Bharat Bond ETF (Medium Term ≈05yr).
+    - Rollover after ≈4 years.
+    - Rebalance adjustments should be first done in the medium term bond.
 
 <br/>
 
@@ -63,9 +65,7 @@
     - Junior Bees.
     - Gold Bees.
     - N100.
-    - Bharat Bond ETF (Long Term)
-        - Start with 10yr maturity and shift to new ≈10yr maturity after ≈4 years.
-- Portfolio Size - 0 - 5.
+- Portfolio Size - 0 - 4.
 - Rebalance Frequency
     - Bi-Weekly.
     - On 01<sup>st</sup> and 03<sup>rd</sup> Monday of every month.
