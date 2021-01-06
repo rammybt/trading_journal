@@ -22,7 +22,7 @@
 - Allocation
     - Based on average of three overlapping portfolios rebalanced monthly on 07<sup>th</sup>, 14<sup>th</sup> and 21<sup>st</sup> [normalized trading day of the month](https://allocatesmartly.com/faqs/#normalizing-days) repectively.  
 - Benchmark 
-    - [iShares Core Growth Allocation ETF (AOR)](https://www.ishares.com/us/products/239756/).
+    - [iShares Core Growth Allocation ETF (AOR)](https://www.ishares.com/us/products/239756/) - Total Returns.
 
 <br/>
 <br/>
