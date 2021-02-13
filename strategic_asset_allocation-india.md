@@ -32,7 +32,6 @@
     - 50% - Bharat Bond ETF (Long Term ≈10yr).
     - 50% - Bharat Bond ETF (Medium Term ≈05yr).
     - Rollover after ≈4 years.
-    - Rebalance adjustments should be first done in the medium term bond.
 
 <br/>
 
