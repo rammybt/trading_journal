@@ -85,8 +85,8 @@
 - Strategy
     - Quantitative screen and charts.
 - Allocation
-    - 35% - Long Book.
-    - 65% - Short Book.
+    - 40% - Long Book.
+    - 60% - Short Book.
 - Leverage
     - Around ≈1.25X-1.75X.
 - Stop-loss
