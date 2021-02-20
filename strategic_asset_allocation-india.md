@@ -106,7 +106,7 @@
 
 - Strategy
     - Long Strangle
-    - Gammma scalp to reduce cost.
+    - Gamma scalp to reduce cost.
     
 <br/>
 
