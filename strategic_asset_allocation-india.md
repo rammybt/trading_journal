@@ -11,7 +11,7 @@
 | <a href="#ft"> Top25 Strategy </a>            |     ≈20%    |
 | <a href="#tf"> TF and Dual Momentum </a>      |     ≈20%    |
 | <a href="#ls"> Long/Short Book (Futures) </a> |     ≈20%    |
-| <a href="#lv"> Long Vol (Options) </a>        |     ≈05%    |
+| <a href="#lv"> Long Vol. (Options) </a>        |     ≈05%    |
 | <a href="#di"> Discretionary </a>             |     ≈05%    |
 
 
@@ -102,7 +102,7 @@
 
 <br/>
 
-### <a name="lv">Long Vol (Options)</a> [🔝](#top)
+### <a name="lv">Long Vol. (Options)</a> [🔝](#top)
 
 - Strategy
     - Long Strangle
