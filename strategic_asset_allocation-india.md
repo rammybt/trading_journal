@@ -105,22 +105,23 @@
 
 - Investment Universe 
     - Stocks, F&O, Commodities, Currencies.
-- Entry Rule
-    - Discretion of the trader.
-    - Specify two entry points.
-- Stop-loss
-    - Discretion of the trader.
-    - Specify two entry and two stop-loss levels.
-- Allocation for stocks (Maximum) - 
-    - Minimum of -
-        1. 4.0% of Capital.
-        1. 0.4% Risk-per-trade.
-- Profit Taking
-    - 1/5 of remaining at 0.75R.
-    - 1/4 of remaining at 1.25R.
-    - 1/3 of remaining at 2R.
-    - 1/2 of remaining at stop loss - 1.
-    - All remaining at stop loss - 2.
+- For Stocks
+    - Entry Rule
+        - Discretion of the trader.
+        - Specify two entry points.
+    - Stop-loss
+        - Discretion of the trader.
+        - Specify two entry and two stop-loss levels.
+    - Allocation (Maximum) - 
+        - Minimum of -
+            1. 4.0% of Capital.
+            1. 0.4% Risk-per-trade.
+    - Profit Taking
+        - 1/5 of remaining at 0.75R.
+        - 1/4 of remaining at 1.25R.
+        - 1/3 of remaining at 2R.
+        - 1/2 of remaining at stop loss - 1.
+        - All remaining at stop loss - 2.
 <br/>
 
 ---
