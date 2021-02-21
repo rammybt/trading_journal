@@ -11,8 +11,7 @@
 | <a href="#ft"> Top25 Strategy </a>            |     ≈20%    |
 | <a href="#tf"> TF and Dual Momentum </a>      |     ≈20%    |
 | <a href="#ls"> Long/Short Book (Futures) </a> |     ≈20%    |
-| <a href="#lv"> Long Vol. (Options) </a>        |     ≈05%    |
-| <a href="#di"> Discretionary </a>             |     ≈05%    |
+| <a href="#di"> Discretionary </a>             |     ≈10%    |
 
 
 - Rebalance if 
@@ -97,19 +96,6 @@
     - Expiry week monday.
 
 <br/>
-
----
-
-<br/>
-
-### <a name="lv">Long Vol. (Options)</a> [🔝](#top)
-
-- Strategy
-    - Long Strangle
-    - Gamma scalp to reduce cost.
-    
-<br/>
-
 
 ---
 
