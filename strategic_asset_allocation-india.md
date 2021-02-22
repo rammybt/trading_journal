@@ -126,4 +126,4 @@
 
 ---
 
-<p align="center"><img src="./files/cc-by-sa.svg"/></p>
+<p align="center"><img src="./files/all_rights_reserved.svg"/></p>
