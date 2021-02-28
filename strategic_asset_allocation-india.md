@@ -10,7 +10,7 @@
 | <a href="#fi"> Fixed Income </a>              |     ≈30%    |
 | <a href="#ft"> Top25 Strategy </a>            |     ≈20%    |
 | <a href="#tf"> TF and Dual Momentum </a>      |     ≈20%    |
-| <a href="#ls"> Long/Short Book (Futures) </a> |     ≈20%    |
+| <a href="#lv"> Long Volatility </a>           |     ≈20%    |
 | <a href="#di"> Discretionary </a>             |     ≈10%    |
 
 
@@ -78,22 +78,14 @@
 
 <br/>
 
-### <a name="ls">Long/Short Book (Futures)</a> [🔝](#top)
+### <a name="ls">Long Volatility</a> [🔝](#top)
 
 - Investment Universe 
-    - Stocks Futures.
+    - Nifty Options (LEAPS)
 - Strategy
-    - Quantitative screen and charts.
-- Allocation
-    - 40% - Long Book.
-    - 60% - Short Book.
-- Leverage
-    - Around ≈1.25X-1.75X.
-- Stop-loss
-    - Discretion of the trader.
-    - Minimum 07%.
-- Rollover
-    - Expiry week monday.
+    - Long Strangle (Allocate 50%).
+    - Gamma scalp to reduce cost.
+    - Keep unused fund in liquidbees. 
 
 <br/>
 
