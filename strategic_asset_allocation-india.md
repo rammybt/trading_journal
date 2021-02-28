@@ -78,7 +78,7 @@
 
 <br/>
 
-### <a name="ls">Long Volatility</a> [🔝](#top)
+### <a name="lv">Long Volatility</a> [🔝](#top)
 
 - Investment Universe 
     - Nifty Options (LEAPS)
