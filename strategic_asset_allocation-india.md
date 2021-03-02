@@ -83,7 +83,7 @@
 - Investment Universe 
     - Nifty Options (LEAPS)
 - Strategy
-    - Long Strangle (Allocate 50%).
+    - Long Strangle (Allocate 40%).
     - Gamma scalp to reduce cost.
     - Keep unused fund in liquidbees. 
 
