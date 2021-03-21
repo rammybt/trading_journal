@@ -103,7 +103,7 @@
         - Specify two entry points.
     - Stop-loss
         - Discretion of the trader.
-        - Specify two entry and two stop-loss levels.
+        - Specify two stop-loss levels.
     - Allocation (Maximum) - 
         - Minimum of -
             1. 4.0% of Capital.
