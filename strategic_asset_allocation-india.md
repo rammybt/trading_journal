@@ -105,6 +105,7 @@
 - Allocation
     - 0% to 100% (No Leverage or Shorting).
     - If no opportunity allocate to cash.
+- Leverage - ≈1.25X-1.75X
 
 <br/>
 
@@ -118,7 +119,6 @@
     - Nifty Options
 - Strategy
     - Long Put (LEAPS) - ≈30Δ
-- Leverage - ≈1.25X-1.75X
 
 <br/>
 
