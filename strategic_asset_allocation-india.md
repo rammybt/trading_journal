@@ -6,12 +6,14 @@
 <br/>
 
 | **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                          |**Allocation**|
-|:----------------------------------------------|:-----------:|
-| <a href="#fi"> Fixed Income </a>              |     ≈30%    |
-| <a href="#ft"> Top25 Strategy </a>            |     ≈20%    |
-| <a href="#tf"> TF and Dual Momentum </a>      |     ≈20%    |
-| <a href="#lv"> Long Volatility </a>           |     ≈20%    |
-| <a href="#di"> Discretionary </a>             |     ≈10%    |
+|:-------------------------------------------------------|:-----------:|
+| <a href="#fi"> Fixed Income </a>                       |     ≈30%    |
+| <a href="#ft"> Top25 Strategy </a>                     |     ≈20%    |
+| <a href="#tf"> Trend Following </a>                    |     ≈20%    |
+| <a href="#sf"> Long Stock Futures </a>                 |     ≈10%    |
+| <a href="#ct"> Commodity Trend Following </a>          |     ≈10%    |
+| <a href="#tp"> Tail-Risk Protection </a>               |     ≈05%    |
+| <a href="#di"> Discretionary </a>                      |     ≈05%    |
 
 
 - Rebalance if 
@@ -57,7 +59,7 @@
 
 <br/>
 
-### <a name="tf">Trend Following and Dual Momentum</a> [🔝](#top)
+### <a name="tf">Trend Following</a> [🔝](#top)
 
 - Investment Universe 
     - Nifty Bees.
@@ -78,14 +80,44 @@
 
 <br/>
 
-### <a name="lv">Long Volatility</a> [🔝](#top)
+### <a name="sf">Long Stock Futures</a> [🔝](#top)
 
 - Investment Universe 
-    - Nifty Options (LEAPS)
+    - Stocks in NSE F&O segment.
 - Strategy
-    - Long Strangle (Allocate 33.33%).
-    - Gamma scalp to reduce cost.
-    - Keep unused fund in liquidbees. 
+    - Quantitative and charts.
+- Leverage - ≈1.25X-1.75X
+- Stop-Loss - Discretion of the trader.
+<br/>
+
+---
+
+<br/>
+
+### <a name="ct">Commodity Trend Following</a> [🔝](#top)
+
+- Investment Universe 
+    - MCXBULLDEX
+    - MCXMETLDEX 
+- Rebalance Frequency
+    - Bi-Weekly.
+    - On 01<sup>st</sup> and 03<sup>rd</sup> Monday of every month.
+- Allocation
+    - 0% to 100% (No Leverage or Shorting).
+    - If no opportunity allocate to cash.
+
+<br/>
+
+---
+
+<br/>
+
+### <a name="tp">Tail-Risk Protection</a> [🔝](#top)
+
+- Investment Universe 
+    - Nifty Options
+- Strategy
+    - Long Put (LEAPS) - ≈30Δ
 
 <br/>
 
