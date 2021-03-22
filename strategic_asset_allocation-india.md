@@ -118,6 +118,7 @@
     - Nifty Options
 - Strategy
     - Long Put (LEAPS) - ≈30Δ
+- Leverage - ≈1.25X-1.75X
 
 <br/>
 
