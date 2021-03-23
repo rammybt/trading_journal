@@ -102,9 +102,6 @@
 - Rebalance Frequency
     - Bi-Weekly.
     - On 01<sup>st</sup> and 03<sup>rd</sup> Monday of every month.
-- Allocation
-    - 0% to 100% (No Leverage or Shorting).
-    - If no opportunity allocate to cash.
 - Leverage - ≈1.25X-1.75X
 
 <br/>
