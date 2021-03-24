@@ -10,7 +10,7 @@
 | <a href="#fi"> Fixed Income </a>                       |     ≈30%    |
 | <a href="#ft"> Top25 Strategy </a>                     |     ≈20%    |
 | <a href="#tf"> Trend Following </a>                    |     ≈20%    |
-| <a href="#sf"> Stock Futures </a>                 |     ≈10%    |
+| <a href="#sf"> Stock Futures </a>                      |     ≈10%    |
 | <a href="#ct"> Commodity Trend Following </a>          |     ≈10%    |
 | <a href="#tp"> Tail-Risk Protection </a>               |     ≈05%    |
 | <a href="#di"> Discretionary </a>                      |     ≈05%    |
@@ -31,8 +31,7 @@
 ### <a name="fi">Fixed Income</a> [🔝](#top)
 
 - Allocate to -
-    - 50% - Bharat Bond ETF (Long Term ≈10yr).
-    - 50% - Bharat Bond ETF (Medium Term ≈05yr).
+    - Bharat Bond ETF (Long Term ≈6-10yr)
     - Rollover after ≈4 years.
 
 <br/>
