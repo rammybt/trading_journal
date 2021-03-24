@@ -10,7 +10,7 @@
 | <a href="#fi"> Fixed Income </a>                       |     ≈30%    |
 | <a href="#ft"> Top25 Strategy </a>                     |     ≈20%    |
 | <a href="#tf"> Trend Following </a>                    |     ≈20%    |
-| <a href="#sf"> Long Stock Futures </a>                 |     ≈10%    |
+| <a href="#sf"> Stock Futures </a>                 |     ≈10%    |
 | <a href="#ct"> Commodity Trend Following </a>          |     ≈10%    |
 | <a href="#tp"> Tail-Risk Protection </a>               |     ≈05%    |
 | <a href="#di"> Discretionary </a>                      |     ≈05%    |
@@ -85,6 +85,7 @@
 - Investment Universe 
     - Stocks in NSE F&O segment.
 - Strategy
+    - Long only portfolio.
     - Quantitative and charts.
 - Leverage - ≈1.25X-1.75X
 - Stop-Loss - Discretion of the trader.
