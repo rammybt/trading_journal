@@ -8,7 +8,7 @@
 | **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                          |**Allocation**|
 |:-------------------------------------------------------|:-----------:|
 | <a href="#fi"> Fixed Income </a>                       |     ≈30%    |
-| <a href="#ft"> Top25 Strategy </a>                     |     ≈20%    |
+| <a href="#sb"> Equity Smart Beta </a>                  |     ≈20%    |
 | <a href="#sf"> Stock Futures </a>                      |     ≈20%    |
 | <a href="#sv"> Short volatility </a>                   |     ≈10%    |
 | <a href="#ct"> Commodities </a>                        |     ≈10%    |
@@ -40,7 +40,7 @@
 
 <br/>
 
-### <a name="ft">Top25 Strategy</a> [🔝](#top)
+### <a name="sb">Equity Smart Beta</a> [🔝](#top)
 
 - Investment Universe
     - Top 750 Stocks by median traded value in NSE.
