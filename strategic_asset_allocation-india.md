@@ -45,9 +45,10 @@
 - Investment Universe
     - Top 750 Stocks by median traded value in NSE.
     - Median of weekly traded value in rupees (₹) for the last 15 months.
-- Portfolio Size - 25.
-- Rebalance Frequency - Monthly.
-    - Create two portfolios rebalanced on 02<sup>nd</sup> and 04<sup>th</sup> Monday of every month repectively. 
+- Portfolio Size - 15-30.
+- Rebalance Frequency
+    - Monthly.
+    - 04<sup>th</sup> Monday. 
 - Allocation
     - 1/2 - As per factor weight.
     - 1/2 - As per equal weight.
@@ -67,7 +68,7 @@
     - Quantitative and charts.
 - Leverage - ≈1.25X-1.75X
 - Allocation
-    -  As per trend following model.
+    -  As per trend following model. Reviewed Weekly.
     -  Minimum allocation 25%.
     
 <br/>
@@ -84,6 +85,7 @@
     - Reverse Jade Lizard.
     - Keep PoP - ≈85%.
     - Stop-Loss - ≈4X the premium received.
+    - DTE - ≈30-40. 
 - Margin - ≈1.25X-1.75X.
 
 <br/>
