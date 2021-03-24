@@ -9,9 +9,9 @@
 |:-------------------------------------------------------|:-----------:|
 | <a href="#fi"> Fixed Income </a>                       |     ≈30%    |
 | <a href="#ft"> Top25 Strategy </a>                     |     ≈20%    |
-| <a href="#tf"> Trend Following </a>                    |     ≈20%    |
-| <a href="#sf"> Stock Futures </a>                      |     ≈10%    |
-| <a href="#ct"> Commodity Trend Following </a>          |     ≈10%    |
+| <a href="#sf"> Stock Futures </a>                      |     ≈20%    |
+| <a href="#sv"> Short volatility </a>                   |     ≈10%    |
+| <a href="#ct"> Commodities </a>                        |     ≈10%    |
 | <a href="#tp"> Tail-Risk Protection </a>               |     ≈05%    |
 | <a href="#di"> Discretionary </a>                      |     ≈05%    |
 
@@ -58,28 +58,7 @@
 
 <br/>
 
-### <a name="tf">Trend Following</a> [🔝](#top)
-
-- Investment Universe 
-    - Nifty Bees.
-    - Junior Bees.
-    - Gold Bees.
-    - N100.
-- Portfolio Size - 0 - 4.
-- Rebalance Frequency
-    - Bi-Weekly.
-    - On 01<sup>st</sup> and 03<sup>rd</sup> Monday of every month.
-- Allocation
-    - 0% to 100% (No Leverage or Shorting).
-    - If no opportunity allocate to liquidbees.
-
-<br/>
-
----
-
-<br/>
-
-### <a name="sf">Long Stock Futures</a> [🔝](#top)
+### <a name="sf">Stock Futures</a> [🔝](#top)
 
 - Investment Universe 
     - Stocks in NSE F&O segment.
@@ -87,18 +66,39 @@
     - Long only portfolio.
     - Quantitative and charts.
 - Leverage - ≈1.25X-1.75X
-- Stop-Loss - Discretion of the trader.
+- Allocation
+    -  As per trend following model.
+    -  Minimum allocation 25%.
+    
 <br/>
 
 ---
 
 <br/>
 
-### <a name="ct">Commodity Trend Following</a> [🔝](#top)
+### <a name="sv">Short Volatilty</a> [🔝](#top)
 
 - Investment Universe 
-    - MCXBULLDEX
-    - MCXMETLDEX 
+    - Nifty 50 Option.
+- Strategy
+    - Reverse Jade Lizard.
+    - Keep PoP - ≈85%.
+    - Stop-Loss - ≈4X the premium received.
+- Margin - ≈1.25X-1.75X.
+
+<br/>
+
+---
+
+<br/>
+
+### <a name="ct">Commodities</a> [🔝](#top)
+
+- Investment Universe 
+    - MCXBULLDEX.
+    - MCXMETLDEX.
+- Strategy
+    - Trend Following and Dual Momentum.
 - Rebalance Frequency
     - Bi-Weekly.
     - On 01<sup>st</sup> and 03<sup>rd</sup> Monday of every month.
