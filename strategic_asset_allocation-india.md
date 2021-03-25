@@ -43,8 +43,7 @@
 ### <a name="sb">Equity Smart Beta</a> [🔝](#top)
 
 - Investment Universe
-    - Top 750 Stocks by median traded value in NSE.
-    - Median of weekly traded value in rupees (₹) for the last 15 months.
+    - Stocks in NSE with (median daily traded value over the last 457 days) >= ₹1cr. 
 - Portfolio Size - 15-30.
 - Rebalance Frequency
     - Monthly.
