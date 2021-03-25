@@ -11,7 +11,6 @@ Documenting my trading journey.
 * **[Strategic Asset Allocation - International](./strategic_asset_allocation-international.md)**
 * **[Current Allocation - India](https://github.com/ayandossdotnet/trading_journal/blob/main/current_allocation_india.csv)**
 * **[Net Asset Value](https://github.com/ayandossdotnet/trading_journal/blob/main/nav_data.csv)**
-* **[XIRR](https://github.com/ayandossdotnet/trading_journal/blob/main/xirr_inception_to_month_end.csv)<sup id="a1"> [1](#xirr)</sup>**
 
 <br/>
 <br/>
@@ -19,7 +18,9 @@ Documenting my trading journey.
 <br/>
 
 ---
+
+<!--
 **Footnotes**  
 <b id="xirr">[1](#a1) — </b> XIRR is from inception till the specified month end. It includes all outflows related to trading like software, rent, trading infrastructure, tax etc.
-
 <p align="center"><img src="./files/all_rights_reserved.svg"/)</p>
+-->
