@@ -65,6 +65,7 @@
 - Strategy
     - Long only portfolio.
     - Quantitative and charts.
+    - Rollover on 04<sup>th</sup> Monday of the month.
 - Leverage - ≈1.25X-1.75X
 - Allocation
     -  As per trend following model. Reviewed Weekly.
