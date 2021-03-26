@@ -82,10 +82,11 @@
 - Investment Universe 
     - Nifty 50 Option.
 - Strategy
-    - Reverse Jade Lizard.
-    - Keep PoP - ≈85%.
-    - Stop-Loss - ≈4X the premium received.
-    - DTE - ≈30-40. 
+    - Short Strangle
+    - Keep PoP - ≥90%.
+    - Adjustment - When loss is ≈3X the premium received.
+    - Stop-Loss - ≈6X the premium received.
+    - DTE - ≈30-45. 
 - Margin - ≈1.25X-1.75X.
 
 <br/>
