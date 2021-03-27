@@ -7,11 +7,9 @@
 
 | **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                          |**Allocation**|
 |:-------------------------------------------------------|:-----------:|
-| <a href="#fi"> Fixed Income </a>                       |     ≈30%    |
-| <a href="#sb"> Equity Smart Beta </a>                  |     ≈20%    |
-| <a href="#sf"> Stock Futures </a>                      |     ≈20%    |
-| <a href="#sv"> Short volatility </a>                   |     ≈10%    |
-| <a href="#ct"> Commodities </a>                        |     ≈10%    |
+| <a href="#fi"> Fixed Income </a>                       |     ≈40%    |
+| <a href="#sb"> Equity Smart Beta </a>                  |     ≈25%    |
+| <a href="#sf"> Stock Futures </a>                      |     ≈25%    |
 | <a href="#tp"> Tail-Risk Protection </a>               |     ≈05%    |
 | <a href="#di"> Discretionary </a>                      |     ≈05%    |
 
@@ -71,42 +69,6 @@
     -  As per trend following model. Reviewed Weekly.
     -  Minimum allocation 25%.
     
-<br/>
-
----
-
-<br/>
-
-### <a name="sv">Short Volatilty</a> [🔝](#top)
-
-- Investment Universe 
-    - Nifty 50 Option.
-- Strategy
-    - Short Strangle
-    - Keep PoP - ≥90%.
-    - Adjustment - When loss is ≈3X the premium received.
-    - Stop-Loss - ≈6X the premium received.
-    - DTE - ≈30-45. 
-- Margin - ≈1.25X-1.75X.
-
-<br/>
-
----
-
-<br/>
-
-### <a name="ct">Commodities</a> [🔝](#top)
-
-- Investment Universe 
-    - MCXBULLDEX.
-    - MCXMETLDEX.
-- Strategy
-    - Trend Following and Dual Momentum.
-- Rebalance Frequency
-    - Bi-Weekly.
-    - On 01<sup>st</sup> and 03<sup>rd</sup> Monday of every month.
-- Leverage - ≈1.25X-1.75X
-
 <br/>
 
 ---
