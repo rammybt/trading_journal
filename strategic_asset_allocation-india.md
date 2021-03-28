@@ -45,7 +45,7 @@
 - Portfolio Size - 15-30.
 - Rebalance Frequency
     - Monthly.
-    - Last trading day of the month.
+    - Rebalance on 04<sup>th</sup> Monday of the month.
 - Allocation
     - 1/2 - As per factor weight.
     - 1/2 - As per equal weight.
