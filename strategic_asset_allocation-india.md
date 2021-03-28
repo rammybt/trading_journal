@@ -10,8 +10,8 @@
 | <a href="#fi"> Fixed Income </a>                       |     ≈40%    |
 | <a href="#sb"> Equity Smart Beta </a>                  |     ≈25%    |
 | <a href="#sf"> Stock Futures </a>                      |     ≈25%    |
-| <a href="#tp"> Tail-Risk Protection </a>               |     ≈05%    |
-| <a href="#di"> Discretionary </a>                      |     ≈05%    |
+| <a href="#tp"> Tail-Risk Protection </a>               |     ≈7.5%   |
+| <a href="#di"> Discretionary </a>                      |     ≈2.5%   |
 
 
 - Rebalance if 
