@@ -80,7 +80,7 @@
 - Investment Universe 
     - Nifty Options
 - Strategy
-    - Long Put (LEAPS) - ≈30Δ
+    - Long Put (LEAPS) - ≈50Δ
 
 <br/>
 
