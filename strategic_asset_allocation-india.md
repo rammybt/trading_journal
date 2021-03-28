@@ -7,11 +7,11 @@
 
 | **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                          |**Allocation**|
 |:-------------------------------------------------------|:-----------:|
-| <a href="#fi"> Fixed Income </a>                       |     ≈40%    |
-| <a href="#sb"> Equity Smart Beta </a>                  |     ≈25%    |
-| <a href="#sf"> Stock Futures </a>                      |     ≈25%    |
-| <a href="#tp"> Tail-Risk Protection </a>               |     ≈7.5%   |
-| <a href="#di"> Discretionary </a>                      |     ≈2.5%   |
+| <a href="#fi"> Fixed Income </a>                       |     ≈40.0%  |
+| <a href="#sb"> Equity Smart Beta </a>                  |     ≈25.0%  |
+| <a href="#sf"> Stock Futures </a>                      |     ≈25.0%  |
+| <a href="#tp"> Tail-Risk Protection </a>               |     ≈07.5%  |
+| <a href="#di"> Discretionary </a>                      |     ≈02.5%  |
 
 
 - Rebalance if 
