@@ -45,7 +45,7 @@
 - Portfolio Size - 15-30.
 - Rebalance Frequency
     - Monthly.
-    - 04<sup>th</sup> Monday. 
+    - Last trading day of the month.
 - Allocation
     - 1/2 - As per factor weight.
     - 1/2 - As per equal weight.
@@ -63,7 +63,7 @@
 - Strategy
     - Long only portfolio.
     - Quantitative and charts.
-    - Rollover on 04<sup>th</sup> Monday of the month.
+    - Rebalance on 04<sup>th</sup> Monday of the month.
 - Leverage - ≈1.25X-1.75X
 - Allocation
     -  As per trend following model. Reviewed Weekly.
