@@ -7,9 +7,10 @@
 
 | **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                          |**Allocation**|
 |:-------------------------------------------------------|:-----------:|
-| <a href="#fi"> Fixed Income </a>                       |     ≈40.0%  |
+| <a href="#fi"> Fixed Income </a>                       |     ≈30.0%  |
 | <a href="#sb"> Equity Smart Beta </a>                  |     ≈25.0%  |
 | <a href="#sf"> Stock Futures </a>                      |     ≈25.0%  |
+| <a href="#dm"> Dual Momentum </a>                      |     ≈10.0%  |
 | <a href="#tp"> Tail-Risk Protection </a>               |     ≈07.5%  |
 | <a href="#di"> Discretionary </a>                      |     ≈02.5%  |
 
@@ -75,12 +76,28 @@
 
 <br/>
 
+### <a name="dm">Dual Momentum</a> [🔝](#top)
+
+- Investment Universe 
+    - Niftybees.
+    - N100.
+    - Goldbees.
+- Strategy
+    - Rebalance on 01<sup>st</sup> and 03<sup>rd</sup> Monday of the month.
+    - Allocate unused fund to Liquidbees.
+    
+<br/>
+
+---
+
+<br/>
+
 ### <a name="tp">Tail-Risk Protection</a> [🔝](#top)
 
 - Investment Universe 
     - Nifty Options
 - Strategy
-    - Long Put (LEAPS) - ≈50Δ
+    - Long Put (LEAPS) - ≈40Δ-60Δ
 
 <br/>
 
