@@ -24,11 +24,11 @@
 - Benchmark 
     - [iShares Core Growth Allocation ETF (AOR)](https://www.ishares.com/us/products/239756/) - Total Returns.
 
-<br/>
-<br/>
-<br/>
-<br/>
-
 ---
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 <p align="center"><img src="./files/all_rights_reserved.svg"/)</p>
