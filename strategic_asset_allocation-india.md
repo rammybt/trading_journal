@@ -69,6 +69,7 @@
 - Allocation
     -  As per trend following model. Reviewed Weekly.
     -  Minimum allocation 20%.
+    -  Keep unused funds in liquidbees.
     
 <br/>
 
