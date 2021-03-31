@@ -12,11 +12,6 @@ Documenting my trading journey.
 * **[Current Allocation - India](https://github.com/ayandossdotnet/trading_journal/blob/main/current_allocation_india.csv)**
 * **[Net Asset Value](https://github.com/ayandossdotnet/trading_journal/blob/main/nav_data.csv)**
 
-<br/>
-<br/>
-<br/>
-<br/>
-
 ---
 
 <!--
