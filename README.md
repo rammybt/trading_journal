@@ -14,14 +14,13 @@ Documenting my trading journey.
 
 ---
 
-<!--
-**Footnotes**  
-<b id="xirr">[1](#a1) — </b> XIRR is from inception till the specified month end. It includes all outflows related to trading like software, rent, trading infrastructure, tax etc.
--->
+<br/>
+<br/>
+<br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
-<br/>
+**Footnotes**  
+<b id="xirr">[1](#a1) — </b> XIRR is from inception till the specified month end.
+
 
 <p align="center"><img src="./files/all_rights_reserved.svg"/)</p>
