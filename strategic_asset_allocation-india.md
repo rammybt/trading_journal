@@ -69,7 +69,7 @@
 - Leverage - ≈1.25X-1.75X
 - Allocation
     -  As per trend following model. Reviewed Weekly.
-    -  Minimum allocation 20%.
+    -  Minimum allocation 10%.
     -  Allocate unused fund to Liquidbees.
     
 <br/>
