@@ -18,7 +18,7 @@
     - Any allocation changes by more than ±25% (reviewed weekly). __OR__
     - Between 21<sup>st</sup> March and 10<sup>th</sup> April (Tax Loss Harvesting).
 - Benchmark 
-    - [ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - Growth](https://www.icicipruamc.com/mutual-fund/other-funds/icici-prudential-asset-allocator-fund)
+    - [Nifty 50 TRI](https://www.niftyindices.com/indices/equity/broad-based-indices/NIFTY-50)
 
 <br/>
 
