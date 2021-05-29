@@ -9,14 +9,13 @@
 |:-------------------------------------------------------|:-----------:|
 | <a href="#fi"> Fixed Income </a>                       |     ≈30.0%  |
 | <a href="#sb"> Equity Smart Beta </a>                  |     ≈25.0%  |
-| <a href="#sf"> Stock Futures </a>                      |     ≈25.0%  |
-| <a href="#dm"> Dual Momentum </a>                      |     ≈10.0%  |
-| <a href="#tp"> Tail-Risk Protection </a>               |     ≈07.5%  |
-| <a href="#di"> Discretionary </a>                      |     ≈02.5%  |
+| <a href="#sf"> Stock Futures </a>                      |     ≈20.0%  |
+| <a href="#dm"> Dual Momentum </a>                      |     ≈20.0%  |
+| <a href="#di"> Discretionary </a>                      |     ≈05.0%  |
 
 
 - Rebalance if 
-    - Any allocation changes by more than ±66.67% (reviewed weekly). __OR__
+    - Any allocation changes by more than ±25% (reviewed weekly). __OR__
     - Between 21<sup>st</sup> March and 10<sup>th</sup> April (Tax Loss Harvesting).
 - Benchmark 
     - [ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - Growth](https://www.icicipruamc.com/mutual-fund/other-funds/icici-prudential-asset-allocator-fund)
@@ -66,7 +65,7 @@
     - Long only portfolio.
     - Quantitative and charts.
     - Rebalance/Rollover on the expiry week Monday.
-- Leverage - ≈1.25X-1.75X
+- Leverage - ≈1.75X-2.25X
 - Allocation
     -  As per trend following model. Reviewed Weekly.
     -  Allocate unused fund to Liquidbees.
@@ -80,26 +79,13 @@
 ### <a name="dm">Dual Momentum</a> [🔝](#top)
 
 - Investment Universe 
-    - Niftybees.
+    - Juniorbees.
     - N100.
     - Goldbees.
 - Strategy
-    - Rebalance on 01<sup>st</sup> and 03<sup>rd</sup> Monday of the month.
+    - Rebalance weekly.
     - Allocate unused fund to Liquidbees.
     
-<br/>
-
----
-
-<br/>
-
-### <a name="tp">Tail-Risk Protection</a> [🔝](#top)
-
-- Investment Universe 
-    - Nifty Options
-- Strategy
-    - Long Put (LEAPS) - ≈40Δ-60Δ
-
 <br/>
 
 ---
