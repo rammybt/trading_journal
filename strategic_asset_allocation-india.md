@@ -9,16 +9,17 @@
 |:-------------------------------------------------------|:-----------:|
 | <a href="#fi"> Fixed Income </a>                       |     ≈30.0%  |
 | <a href="#sb"> Equity Smart Beta </a>                  |     ≈25.0%  |
-| <a href="#sf"> Stock Futures </a>                      |     ≈20.0%  |
-| <a href="#dm"> Dual Momentum </a>                      |     ≈20.0%  |
-| <a href="#di"> Discretionary </a>                      |     ≈05.0%  |
+| <a href="#sf"> Stock Futures </a>                      |     ≈25.0%  |
+| <a href="#dm"> Dual Momentum </a>                      |     ≈10.0%  |
+| <a href="#tp"> Tail-Risk Protection </a>               |     ≈07.5%  |
+| <a href="#di"> Discretionary </a>                      |     ≈02.5%  |
 
 
 - Rebalance if 
-    - Any allocation changes by more than ±25% (reviewed weekly). __OR__
+    - Any allocation changes by more than ±80% (reviewed weekly). __OR__
     - Between 21<sup>st</sup> March and 10<sup>th</sup> April (Tax Loss Harvesting).
 - Benchmark 
-    - [Nifty 50 TRI](https://www.niftyindices.com/indices/equity/broad-based-indices/NIFTY-50)
+    - [ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - Growth](https://www.icicipruamc.com/mutual-fund/other-funds/icici-prudential-asset-allocator-fund)
 
 <br/>
 
@@ -45,8 +46,7 @@
     - Stocks in NSE with (median daily traded value over the last 457 days) >= ₹1cr. 
 - Portfolio Size - 15-30.
 - Rebalance Frequency
-    - Monthly.
-    - Rebalance on the last trading day of the month.
+    - Monthly on the last trading day of the month.
 - Allocation
     - 1/2 - As per factor weight.
     - 1/2 - As per equal weight.
@@ -83,9 +83,22 @@
     - N100.
     - Goldbees.
 - Strategy
-    - Rebalance weekly.
+    - Rebalance weekly on Mondays.
     - Allocate unused fund to Liquidbees.
     
+<br/>
+
+---
+
+<br/>
+
+### <a name="tp">Tail-Risk Protection</a> [🔝](#top)
+
+- Investment Universe 
+    - Nifty Options
+- Strategy
+    - Long Put (LEAPS) - ≈40Δ-60Δ
+
 <br/>
 
 ---
