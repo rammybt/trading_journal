@@ -9,10 +9,9 @@
 |:-------------------------------------------------------|:-----------:|
 | <a href="#fi"> Fixed Income </a>                       |     ≈30.0%  |
 | <a href="#sb"> Equity Smart Beta </a>                  |     ≈25.0%  |
-| <a href="#sf"> Stock Futures </a>                      |     ≈25.0%  |
-| <a href="#dm"> Dual Momentum </a>                      |     ≈10.0%  |
-| <a href="#tp"> Tail-Risk Protection </a>               |     ≈07.5%  |
-| <a href="#di"> Discretionary </a>                      |     ≈02.5%  |
+| <a href="#sf"> Stock Futures </a>                      |     ≈20.0%  |
+| <a href="#dm"> Dual Momentum </a>                      |     ≈20.0%  |
+| <a href="#di"> Discretionary </a>                      |     ≈05.0%  |
 
 
 - Rebalance if 
@@ -86,19 +85,6 @@
     - Rebalance weekly on Mondays.
     - Allocate unused fund to Liquidbees.
     
-<br/>
-
----
-
-<br/>
-
-### <a name="tp">Tail-Risk Protection</a> [🔝](#top)
-
-- Investment Universe 
-    - Nifty Options
-- Strategy
-    - Long Put (LEAPS) - ≈40Δ-60Δ
-
 <br/>
 
 ---
