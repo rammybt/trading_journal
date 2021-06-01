@@ -63,7 +63,7 @@
 - Strategy
     - Long only portfolio.
     - Quantitative and charts.
-    - Rebalance/Rollover on the expiry week Monday.
+    - Rebalance/Rollover one day before expiry.
 - Leverage - ≈1.75X-2.25X
 - Allocation
     -  As per trend following model. Reviewed Weekly.
