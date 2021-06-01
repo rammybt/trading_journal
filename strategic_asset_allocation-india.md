@@ -7,15 +7,15 @@
 
 | **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                          |**Allocation**|
 |:-------------------------------------------------------|:-----------:|
-| <a href="#fi"> Fixed Income </a>                       |     ≈30.0%  |
+| <a href="#fi"> Fixed Income </a>                       |     ≈35.0%  |
 | <a href="#sb"> Equity Smart Beta </a>                  |     ≈25.0%  |
-| <a href="#sf"> Stock Futures </a>                      |     ≈20.0%  |
 | <a href="#dm"> Dual Momentum </a>                      |     ≈20.0%  |
+| <a href="#sf"> Stock Futures </a>                      |     ≈15.0%  |
 | <a href="#di"> Discretionary </a>                      |     ≈05.0%  |
 
 
 - Rebalance if 
-    - Any allocation changes by more than ±66.67% (reviewed monthly). __OR__
+    - Any allocation changes by more than ±25% (reviewed monthly). __OR__
     - Between 21<sup>st</sup> March and 10<sup>th</sup> April (Tax Loss Harvesting).
 - Benchmark 
     - [ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - Growth](https://www.icicipruamc.com/mutual-fund/other-funds/icici-prudential-asset-allocator-fund)
