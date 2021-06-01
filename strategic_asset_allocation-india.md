@@ -82,7 +82,7 @@
     - N100.
     - Goldbees.
 - Strategy
-    - Rebalance weekly on Mondays.
+    - Rebalance weekly.
     - Allocate unused fund to Liquidbees.
     
 <br/>
