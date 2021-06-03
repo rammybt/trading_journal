@@ -45,28 +45,9 @@
 - Rebalance Frequency
     - Monthly. On the last trading day of the month.
 - Allocation
-    - 1/2 - As per factor weight.
-    - 1/2 - As per equal weight.
+    - 50% - As per factor weight.
+    - 50% - As per equal weight.
 
-<br/>
-
----
-
-<br/>
-
-### <a name="sf">Stock Futures</a> [🔝](#top)
-
-- Investment Universe 
-    - Stocks in NSE F&O segment.
-- Strategy
-    - Long only portfolio.
-    - Quantitative and charts.
-    - Rebalance/Rollover one day before expiry.
-- Leverage - ≈1.75X-2.25X
-- Allocation
-    -  As per trend following model. Reviewed Weekly.
-    -  Allocate unused fund to Liquidbees.
-    
 <br/>
 
 ---
@@ -89,7 +70,26 @@
 
 <br/>
 
-### <a name="di">Discretionary</a> [🔝](#top)
+### <a name="sf">Index Futures</a> [🔝](#top)
+
+- Investment Universe 
+    - Nifty 50 Futures
+    - Nifty Bank Futures.
+- Strategy
+    - Long and Short.
+    - Rebalance/Rollover one day before expiry.
+- Leverage - ≈1.75X-2.25X
+- Allocation
+    -  As per trend following model. Reviewed Weekly.
+    -  Allocate unused fund to Liquidbees.
+    
+<br/>
+
+---
+
+<br/>
+
+### <a name="dc">Discretionary</a> [🔝](#top)
 
 - Investment Universe 
     - Stocks, F&O, Commodities, Currencies.
