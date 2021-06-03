@@ -96,7 +96,6 @@
 - For Stocks
     - Entry Rule
         - Discretion of the trader.
-        - Specify two entry points.
     - Stop-loss
         - Discretion of the trader.
         - Specify two stop-loss levels.
