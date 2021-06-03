@@ -70,7 +70,7 @@
 
 <br/>
 
-### <a name="sf">Index Futures</a> [🔝](#top)
+### <a name="if">Index Futures</a> [🔝](#top)
 
 - Investment Universe 
     - Nifty 50 Futures
