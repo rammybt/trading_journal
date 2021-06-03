@@ -107,8 +107,8 @@
         - 1/5 of remaining at 0.75R.
         - 1/4 of remaining at 1.25R.
         - 1/3 of remaining at 2R.
-        - 1/2 of remaining at stop loss - 1.
-        - All remaining at stop loss - 2.
+        - 1/2 of remaining at stop loss / trailing stop loss - 1.
+        - All remaining at stop loss / trailing stop loss - 2.
 <br/>
 
 ---
