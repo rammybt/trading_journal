@@ -7,16 +7,17 @@
 
 | **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                          |**Allocation**|
 |:-------------------------------------------------------|:---------:|
-| <a href="#fi"> Fixed Income </a>                       |     ≈25%  |
-| <a href="#sb"> Equity Smart Beta </a>                  |     ≈25%  |
-| <a href="#dm"> Dual Momentum </a>                      |     ≈25%  |
-| <a href="#if"> Index Futures </a>                      |     ≈25%  |
+| <a href="#fi"> Fixed Income </a>                       |   ≈30%    |
+| <a href="#sb"> Equity Smart Beta </a>                  |   ≈25%    |
+| <a href="#dm"> Dual Momentum </a>                      |   ≈20%    |
+| <a href="#if"> Index Futures </a>                      |   ≈15%    |
+| <a href="#dc"> Disctretionary </a>                     |   ≈10%    |
 
 
 - Rebalance 
     - If any allocation changes by more than ±30% (reviewed monthly).
 - Benchmark 
-    - [Nifty 50 TRI](https://www.niftyindices.com/indices/equity/broad-based-indices/NIFTY-50)
+    - [ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - Growth](https://www.icicipruamc.com/mutual-fund/other-funds/icici-prudential-asset-allocator-fund)
 
 <br/>
 
