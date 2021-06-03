@@ -14,8 +14,7 @@
 
 
 - Rebalance 
-    - If any allocation changes by more than ±30% (reviewed monthly). __OR__
-    - Between 21<sup>st</sup> March and 10<sup>th</sup> April (Tax Loss Harvesting).
+    - If any allocation changes by more than ±30% (reviewed monthly).
 - Benchmark 
     - [Nifty 50 TRI](https://www.niftyindices.com/indices/equity/broad-based-indices/NIFTY-50)
 
