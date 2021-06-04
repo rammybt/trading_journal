@@ -80,7 +80,6 @@
     - Rebalance/Rollover one day before expiry.
 - Leverage - ≈1.75X-2.25X
 - Allocation
-    -  As per trend following model. Reviewed Weekly.
     -  Allocate unused fund to Liquidbees.
     
 <br/>
