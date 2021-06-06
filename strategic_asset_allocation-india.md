@@ -28,7 +28,7 @@
 ### <a name="fi">Fixed Income</a> [🔝](#top)
 
 - Allocate to -
-    - Bharat Bond ETF (Long Term ≈8-9yr).
+    - Bharat Bond ETF (Long Term ≈8-12yr).
     - Rollover after ≈4 years.
 
 <br/>
