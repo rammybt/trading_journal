@@ -78,7 +78,7 @@
 - Strategy
     - Long and Short.
     - Rebalance/Rollover one day before expiry.
-- Leverage - ≈1.75X-2.25X
+- Leverage - ≈2.33X
 - Allocation
     -  Allocate unused fund to Liquidbees.
     
