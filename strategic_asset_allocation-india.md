@@ -29,7 +29,7 @@
 
 - Allocate to -
     - Bharat Bond ETF.
-    - Keep maturity of ≥6 yrs.
+    - Keep residual maturity at ≥5 yrs.
 
 <br/>
 
