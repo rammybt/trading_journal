@@ -22,5 +22,6 @@ Documenting my trading journey.
 **Footnotes**  
 <b id="xirr">[1](#a1) — </b> XIRR is from inception till the specified month end.
 
+<br/>
 
 <p align="center"><img src="./files/all_rights_reserved.svg"/)</p>
