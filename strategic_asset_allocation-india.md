@@ -76,7 +76,7 @@
     - Nifty 50 Futures
     - Nifty Bank Futures.
 - Strategy
-    - Long and Short.
+    - Long or Short.
     - Rebalance/Rollover one day before expiry.
 - Leverage - ≈1.75X-2.25X
 - Allocation
