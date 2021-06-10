@@ -7,12 +7,11 @@
 
 | **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                          |**Allocation**|
 |:-------------------------------------------------------|:---------:|
-| <a href="#fi"> Fixed Income </a>                       |   ≈25%    |
+| <a href="#fi"> Fixed Income </a>                       |   ≈30%    |
 | <a href="#sb"> Equity Smart Beta </a>                  |   ≈25%    |
-| <a href="#if"> Index Futures </a>                      |   ≈20%    |
-| <a href="#cm"> Commodities </a>                        |   ≈20%    |
-| <a href="#dc"> Disctretionary </a>                     |   ≈05%    |
-| <a href="#ot"> Others </a>                             |   ≈05%    |
+| <a href="#dm"> Dual Momentum </a>                      |   ≈20%    |
+| <a href="#if"> Index Futures </a>                      |   ≈15%    |
+| <a href="#dc"> Disctretionary </a>                     |   ≈10%    |
 
 
 - Rebalance 
@@ -29,7 +28,8 @@
 ### <a name="fi">Fixed Income</a> [🔝](#top)
 
 - Allocate to -
-    - ICICI Prudential Constant Maturity Gilt Fund - Direct Plan - Growth 
+    - Bharat Bond ETF.
+    - Keep residual maturity at ≥4 yrs.
 
 <br/>
 
