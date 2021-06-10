@@ -28,8 +28,7 @@
 ### <a name="fi">Fixed Income</a> [🔝](#top)
 
 - Allocate to -
-    - Bharat Bond ETF.
-    - Keep residual maturity at ≥4 yrs.
+    - ICICI Prudential Constant Maturity Gilt Fund - Direct Plan - Growth 
 
 <br/>
 
