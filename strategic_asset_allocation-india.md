@@ -6,12 +6,12 @@
 <br/>
 
 | **Strategy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                          |**Allocation**|
-|:-------------------------------------------------------|:-----------:|
-| <a href="#fi"> Fixed Income </a>                       |   ≈30.0%    |
-| <a href="#sb"> Equity Smart Beta </a>                  |   ≈25.0%    |
-| <a href="#dm"> Dual Momentum </a>                      |   ≈20.0%    |
-| <a href="#if"> Index Futures </a>                      |   ≈17.5%    |
-| <a href="#dc"> Disctretionary </a>                     |   ≈07.5%    |
+|:-------------------------------------------------------|:---------:|
+| <a href="#fi"> Fixed Income </a>                       |   ≈30%    |
+| <a href="#sb"> Equity Smart Beta </a>                  |   ≈25%    |
+| <a href="#dm"> Dual Momentum </a>                      |   ≈20%    |
+| <a href="#if"> Index Futures </a>                      |   ≈20%    |
+| <a href="#dc"> Disctretionary </a>                     |   ≈05%    |
 
 
 - Rebalance 
