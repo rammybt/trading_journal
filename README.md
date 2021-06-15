@@ -9,9 +9,9 @@ Documenting my trading journey.
 
 * **[Strategic Asset Allocation - India](./strategic_asset_allocation-india.md)**
 * **[Strategic Asset Allocation - International](./strategic_asset_allocation-international.md)**
-* **[Net Asset Value](https://github.com/ayandossdotnet/trading_journal/blob/main/nav_data.csv)**
-* **[XIRR](https://github.com/ayandossdotnet/trading_journal/blob/main/xirr.csv)** <b id="a1"><sup>[1](#xirr)</sup></b>
-
+* **[Net Asset Value](./nav_data.csv)**
+* **[XIRR](./xirr.csv)** <b id="a1"><sup>[1](#xirr)</sup></b>
+* **[Trend Score - India](./trend_score_india.csv)** 
 ---
 
 <br/>
