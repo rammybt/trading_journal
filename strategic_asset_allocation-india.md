@@ -40,10 +40,10 @@
 ### <a name="sb">Equity Smart Beta</a> [🔝](#top)
 
 - Investment Universe
-    - Stocks in NSE with (median daily traded value over the last 457 days) >= ₹1cr. 
-- Portfolio Size - 15-30.
+    - Stocks in NSE with (median daily traded value over the last 457 days) >= ₹2cr. 
+- Portfolio Size - 20.
 - Rebalance Frequency
-    - Monthly. On the last trading day of the month.
+    - Every 15 Days.
 - Allocation
     - 50% - As per factor weight.
     - 50% - As per equal weight.
