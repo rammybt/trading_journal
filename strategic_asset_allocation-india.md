@@ -43,7 +43,7 @@
     - Stocks in NSE with (median daily traded value over the last 457 days) >= ₹2cr. 
 - Portfolio Size - 20.
 - Rebalance Frequency
-    - Every 15 Days.
+    - Weekly.
 - Allocation
     - 50% - As per factor weight.
     - 50% - As per equal weight.
