@@ -44,9 +44,6 @@
 - Portfolio Size - 20.
 - Rebalance Frequency
     - Weekly.
-- Allocation
-    - 50% - As per factor weight.
-    - 50% - As per equal weight.
 
 <br/>
 
