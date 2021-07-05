@@ -40,7 +40,8 @@
 ### <a name="sb">Equity Smart Beta</a> [🔝](#top)
 
 - Investment Universe
-    - Stocks in NSE with (median daily traded value over the last 457 days) >= ₹2.5cr. 
+    - Latest Market Cap >= ₹1000cr.
+    - Stocks in NSE with (median daily traded value over the last 36 months) >= ₹2cr. 
 - Portfolio Size - 20.
 - Rebalance Frequency
     - Weekly.
