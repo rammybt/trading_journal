@@ -41,7 +41,6 @@
 
 - Investment Universe
     - Stocks in NSE
-    - Current Market Cap >= ₹1000cr.
     - Median daily traded value over the last 36 months >= ₹2cr. 
 - Portfolio Size - 20.
 - Rebalance Frequency
