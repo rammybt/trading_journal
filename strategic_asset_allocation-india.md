@@ -40,8 +40,7 @@
 ### <a name="sb">Equity Smart Beta</a> [🔝](#top)
 
 - Investment Universe
-    - Stocks in NSE
-    - Median daily traded value over the last 36 months >= ₹2cr. 
+    - Stocks in Nifty 500 Index.
 - Portfolio Size - 20.
 - Rebalance Frequency
     - Weekly.
