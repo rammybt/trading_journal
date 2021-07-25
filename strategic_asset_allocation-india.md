@@ -40,7 +40,9 @@
 ### <a name="sb">Equity Smart Beta</a> [🔝](#top)
 
 - Investment Universe
-    - Stocks in Nifty 500 Index.
+    - NSE Listed. 
+    - Current MCAP >= ₹500cr.
+    - Median daily traded value over the last 12 months >= ₹5Cr.
 - Portfolio Size - 20.
 - Rebalance Frequency
     - Weekly.
