@@ -41,7 +41,7 @@
 
 - Investment Universe
     - NSE Listed. 
-    - Current MCAP >= ₹500cr.
+    - Median daily MCAP over the last 12 months >= ₹1000cr.
     - Median daily traded value over the last 12 months >= ₹5Cr.
 - Portfolio Size - 20.
 - Rebalance Frequency
