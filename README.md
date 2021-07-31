@@ -20,7 +20,7 @@ Documenting my trading journey.
 <br/>
 
 **Footnotes**  
-<b id="xirr">[1](#a1) — </b> XIRR is from inception till the specified month end.
+<b id="xirr">[1](#a1) — </b> XIRR is from inception till the specified month end. Includes all trading costs and dividends but excludes taxes.
 
 <br/>
 
