@@ -41,7 +41,7 @@
 
 - Investment Universe
     - NSE Listed.
-    - Stocks outside of NIfty 50 and Nifty Next 50 Index.
+    - Stocks outside of Nifty 100 Index and not in BE category. 
     - Median daily MCAP over the last 12 months >= ₹1000cr.
     - Median daily traded value over the last 12 months >= ₹5Cr.
 - Portfolio Size - 20.
