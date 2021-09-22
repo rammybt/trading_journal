@@ -45,9 +45,10 @@
     - Median daily MCAP over the last 12 months >= ₹1000cr.
     - Median daily traded value over the last 12 months >= ₹5Cr.
 - Portfolio Size - 20.
-- Factors
-    - Momentum.
-    - Low Volatility.
+- Strategy
+    - Low Volatility and Momentum.
+    - Max weight for a single stock - 15%
+    - Max allocation for a new stock entering the portfolio - 5%
 - Rebalance Frequency
     - Weekly.
 
