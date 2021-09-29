@@ -48,7 +48,7 @@
 - Strategy
     - Low Volatility and Momentum.
     - Max weight for a single stock - 15%
-    - Max allocation for a new stock entering the portfolio - 5%
+    - Max allocation for a new stock entering the portfolio - 7.5%
 - Rebalance Frequency
     - Weekly.
 
