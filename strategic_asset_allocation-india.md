@@ -9,8 +9,8 @@
 |:-------------------------------------------------------|:---------:|
 | <a href="#fi"> Fixed Income </a>                       |   ≈30%    |
 | <a href="#sb"> Equity Smart Beta </a>                  |   ≈25%    |
-| <a href="#dm"> Dual Momentum </a>                      |   ≈20%    |
-| <a href="#if"> Index Futures </a>                      |   ≈20%    |
+| <a href="#dm"> Dual Momentum </a>                      |   ≈25%    |
+| <a href="#if"> Index Futures </a>                      |   ≈15%    |
 | <a href="#dc"> Disctretionary </a>                     |   ≈05%    |
 
 
@@ -80,7 +80,7 @@
     - Nifty 50 Futures
     - Nifty Bank Futures.
 - Strategy
-    - Long or Short.
+    - Long or Flat.
     - Rebalance/Rollover one day before expiry.
 - Leverage - ≈1X-3X
 - Allocation
