@@ -9,8 +9,8 @@
 |:-------------------------------------------------------|:---------:|
 | <a href="#fi"> Fixed Income </a>                       |   ≈30%    |
 | <a href="#sb"> Equity Smart Beta </a>                  |   ≈25%    |
-| <a href="#dm"> Dual Momentum </a>                      |   ≈25%    |
-| <a href="#if"> Index Futures </a>                      |   ≈15%    |
+| <a href="#dm"> Dual Momentum </a>                      |   ≈20%    |
+| <a href="#if"> Index Futures </a>                      |   ≈20%    |
 | <a href="#dc"> Disctretionary </a>                     |   ≈05%    |
 
 
@@ -80,9 +80,9 @@
     - Nifty 50 Futures
     - Nifty Bank Futures.
 - Strategy
-    - Long or Flat.
+    - Long or Short.
     - Rebalance/Rollover one day before expiry.
-- Leverage - ≈2X-4X
+- Leverage - ≈1X-2X
 - Allocation
     -  Allocate unused fund to Liquidbees.
     
